@@ -3,7 +3,7 @@
 ### ⚙️ **1. Installation and Version Check**
 
 * **Command:** `npm install -g @google/gemini-cli`
-* **Check version:** `gemini -v` (e.g., `0.4.0`)
+* **Check version:** `gemini -v` (e.g., `0.8.2`)
   **Purpose:** To install Gemini CLI globally and verify it’s correctly installed.
 
 ---
